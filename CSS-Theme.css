@@ -1,0 +1,64 @@
+nav {
+    float: right;
+    margin-top: 10px;
+    font-size: 24px;
+    align-content: center;
+}
+#logodiv img {
+    margin: 14px 5px 14px 5px;
+}
+nav a:hover {
+    background-color: grey;
+}
+.dib1:hover {
+    background-color: grey;
+}
+header {
+    background-color: black;
+    align-content: center;
+    box-shadow: 6px 6px 8px orangered;
+}
+nav, a, header, .dib1 {
+    padding: 0%;
+}
+.dib1 {
+    display: inline-block;
+}
+nav a {
+    padding: 10px;
+    text-decoration: none;
+}
+.container .t1 {
+    background-color: #333;
+    color: #fff;
+}
+footer {
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    margin: 0px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: #333;
+    color: #fff;
+}
+.t1 {
+    color: #fff;
+    background-color: #333;
+}
+.blumed {
+    float: left;
+    background-image: radial-gradient(rgb(28, 24, 54), rgb(101, 125, 197));
+    border: 5px solid rgba(255, 255, 255, 0);
+    border-radius: 20%;
+    margin: 5px;
+    box-shadow: 3px 3px 8px #333;
+    align-content: center;
+    margin-bottom: 40px;
+    font-size: 60%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    text-shadow: 2px 2px 5px #333;
+    color: orangered;
+}
